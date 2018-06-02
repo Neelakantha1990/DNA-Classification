@@ -1,5 +1,5 @@
 # DNA-Classification
-Mastering DNA Classification
+
 Explored the world of bioinformatics by using 
 a) Markov models
 b)K-nearest neighbor (KNN) algorithms 
